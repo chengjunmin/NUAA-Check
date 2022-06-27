@@ -1,9 +1,3 @@
-# Bug南航- i南航 自动打卡系统
-## 使用方法
-1. fork（就是整个页面右上角那个fork）本项目到自己的仓库
-2. 在settings(对，就是上面一栏code issues最后一个，点进去左边找到secrets里面设置以下secrets,详见[参数配置](#canshu)
-3. 提交一次，你可以删除本文档中任何一个字符然后提交一次（对就是文档右上角那个铅笔图标，点进去随便编辑点东西，然后有个commit changes，点他，剩下的全自动。
-
 <h2 id="canshu">参数配置</h2>
 student_id 学号  
 
